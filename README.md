@@ -8,5 +8,5 @@ This is for testing only.
 
 This is a sandbox area testing.
 
-## How To Contribute
+
 
